@@ -1,1 +1,1 @@
-# In this repo you will get dsa questions in java language.
+# In this repo you will get Projects related to java.
